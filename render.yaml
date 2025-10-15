@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: christmas-countdown-2025
-    runtime: docker
-    plan: free
-    healthCheckPath: /health

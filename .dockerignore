@@ -1,0 +1,26 @@
+# Binaries
+christmas-countdown
+christmas-countdown.exe
+*.exe
+
+# Git
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Development files
+*.log
